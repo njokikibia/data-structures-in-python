@@ -1,0 +1,14 @@
+fruits= ["orange","banana","cherry"]
+print(fruits)
+
+list2=[[1,2,3,4],["aple","orange"],[True,False]]
+print(list2)
+
+fruits=["apple","banana","cherry"]
+print(fruits[-2])
+
+fruits=["apple","banana","cherry"]
+if"apple"in fruits:
+  print("Yes, 'apple' is in fruits list")
+elif "pineapple" in fruits:
+  print("not available")
